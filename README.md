@@ -94,7 +94,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=wakaryunus00
 ###  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyo Nath Tripathy </h1>
 
 
-<h3 align="center">Happy Songs-Good Code-Tasty Food & Gym , THATS ME!</h3>
+/*<h3 align="center">Happy Songs-Good Code-Tasty Food & Gym , THATS ME!</h3>*/
 
 
 </p>
