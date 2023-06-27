@@ -70,7 +70,7 @@
 <p align="center">
 <a href="https://github.com/Saptarshighoshdastidar">
 <img align="center" alt="Ambareen's Github stats"
-src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=wakaryunus009&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000"/>
+src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Saptarshighoshdastidar&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000"/>
 </a>
 <h2 align="center">My Contribution Streak 🔥</h2>
 <p align="center">
