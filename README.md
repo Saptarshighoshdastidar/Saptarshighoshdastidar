@@ -12,7 +12,7 @@
 
 - 💬 Let's talk about **MERN and D S Algo**
 
-- 📫 How to reach me **wakaryunus009@gmail.com**
+- 📫 How to reach me **saptarshighoshdastidar2001@gmail.com**
 
 - ⚡ Fun fact **Newbie trying to be a pro**
 
@@ -22,24 +22,24 @@
     <img height="40" width="40" margin="0 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="">
 </a>
 
-<a href="https://leetcode.com/wakaryunus009/" target="_blank">
+<a href="https://leetcode.com/u/saptarshighoshdastidar/" target="_blank">
     <img height="40" width="40" margin="0 30px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" alt="">
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/wakaryunus009/practice" target="_blank">
+<a href="https://www.geeksforgeeks.org/user/saptarshighoshdastidar2001/" target="_blank">
     <img height="40" width="40" margin="0 30px" src="http://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200-1.png" alt="">
 </a>
 
-<a href="https://www.codingninjas.com/codestudio/profile/5bc5ffb2-c072-4402-b97b-cc8d4afd5784" target="_blank">
+<a href="https://www.naukri.com/code360/profile/saptarshi2001" target="_blank">
     <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="coding ninja's profile" height="40" width="40" margin="0 30px">
 </a>
-  <a href="https://t.me/wakaryunus009" target="_blank">
+  <a href="https://web.telegram.org/a/" target="_blank">
         <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="48">
     </a>
-   <a href="https://www.facebook.com/profile.php?id=100011459797847" target="_blank">
+   <a href="" target="_blank">
         <img src="https://w7.pngwing.com/pngs/69/315/png-transparent-computer-icons-facebook-inc-logo-facebook-blue-text-rectangle-thumbnail.png" alt="facebook" width="48">
     </a>
-    <a href="https://www.instagram.com/wakar_yunus_/" target="_blank">
+    <a href="" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="telegram" width="48">
     </a>
 
@@ -74,31 +74,15 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Saptarshigho
 </a>
 <h2 align="center">My Contribution Streak 🔥</h2>
 <p align="center">
-  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wakaryunus009&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  <a href=">
+    <img src=""/>
   </a>
  </p>  
   <div align="center">
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wakaryunus009&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight" alt="wakaryunus009" /></p>
+ <p><img align="center" src="" /></p>
 </div>
 
 
-![sOUMYO NATH TRIPATHY](https://user-images.githubusercontent.com/85414445/149586965-6e0053b9-bdae-4353-932a-98c54b190469.jpg)
-</div>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-###  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyo Nath Tripathy </h1>
-
-
-/*<h3 align="center">Happy Songs-Good Code-Tasty Food & Gym , THATS ME!</h3>*/
-
-
-</p>
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -107,7 +91,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Saptarshigho
 
 <br><br>
 
-- :school: I am a `3rd year Under-Grad` pursuing [Computer Science Engineering](https://sites.google.com/view/departmentofcseaimlcsbs/home) at [IEM,Kolkata](https://iem.edu.in/).
+- :school: I am a `4rd year Under-Grad` pursuing [Computer Science Engineering](https://sites.google.com/view/departmentofcseaimlcsbs/home) at [IEM,Kolkata](https://iem.edu.in/).
 - :trophy: 4x `Hackathons` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a programmer at `GFG`, `Google Colab`, `Leetcode`, `Kaggle`.
@@ -212,7 +196,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Saptarshigho
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SoumyoNathTripathy/github-readme-streak-stats">
+    <a href="">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Soumyo Nath Tripathy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyoNathTripathy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -220,8 +204,8 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Saptarshigho
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Soumyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SoumyoNathTripathy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Soumyo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyoNathTripathy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href=""><img alt="Soumyo's Github Stats" src="" /></a>
+  <a href=""><img alt="Soumyo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshighoshdastidar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -229,7 +213,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Saptarshigho
 <br/>
 <br/>
 
-<a href="https://github.com/SoumyoNathTripathy/github-readme-activity-graph"><img alt="Soumyo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SoumyoNathTripathy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href=""><img alt="Soumyo's Activity Graph" src="" /></a>
 
 <br/>
 <br/>
@@ -238,15 +222,13 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Saptarshigho
 <p align="centre">
 
 
-<a href = "https://www.linkedin.com/in/soumyo-nath-tripathy-55b366208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/22Aiml"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/mr__tripathy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 
 </p>
 
 ## Do Follow me and ❤️ Star the repositories if you find it useful.
 ## Thankyou
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SoumyoNathTripathy">
+<a href="">
+    <img src="">
 </a>
-<a href="https://github.com/SoumyoNathTripathy?tab=followers"><img src="https://img.shields.io/github/followers/SoumyoNathTripathy?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href=""><img src="" alt="GitHub Badge"></a>
